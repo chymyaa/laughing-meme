@@ -11,13 +11,3 @@ local GameList = {
 local plr = game.Players.LocalPlayer
 local PlaceId = tostring(game.PlaceId)
 local entry = GameList[PlaceId]
-
-if entry then
-    if entry.keyless then
-        loadstring(game:HttpGet(entry.url))()
-    else
-        loadstring(game:HttpGet(entry.url))()
-    end
-else
-    plr:Kick("Game not supported")
-end
