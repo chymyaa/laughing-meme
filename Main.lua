@@ -11,3 +11,5 @@ local GameList = {
 local plr = game.Players.LocalPlayer
 local PlaceId = tostring(game.PlaceId)
 local entry = GameList[PlaceId]
+
+print("Welcome to Logic.")
