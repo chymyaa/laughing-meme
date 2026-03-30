@@ -1,3 +1,7 @@
+local plr = game.Players.LocalPlayer
+local PlaceId = tostring(game.PlaceId)
+local entry = GameList[PlaceId]
+
 -- better
 local GameList = {
     ["136801880565837"] = { 
@@ -7,122 +11,6 @@ local GameList = {
         url = "https://api.jnkie.com/api/v1/luascripts/public/4fd0a374461ccecc3532ce14ce12e58ac7386a841739aa10b0dfe7f2c3493a5e/download"
     }
 }
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
--- we love logic
 
-local plr = game.Players.LocalPlayer
-local PlaceId = tostring(game.PlaceId)
-local entry = GameList[PlaceId]
-
-print("[=====        ] 27%")
-print("[=============] 100%")
+-- we are the best ever devs
+-- no lol
